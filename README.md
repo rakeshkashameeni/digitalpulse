@@ -1,8 +1,4 @@
-# Used Mac operating system
-# Build tool Gradle
-# intellij idea community edition (IDE) open-source
-# Install Software open-source 
-# JDK 11
+
 
 # How to run test
 - JDK 11
